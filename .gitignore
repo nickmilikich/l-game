@@ -109,9 +109,4 @@ ENV/
 *.DS_Store
 .DS_Store
 data/*
-output/*
-config/*.yml
-*old/*
-!config/*.yml.environment
-!config/config.yml
 !*.gitkeep

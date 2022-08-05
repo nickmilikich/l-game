@@ -1,0 +1,11 @@
+name: l_game_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8.13
+  - pip=22.0.4
+  - numpy=1.22.3
+  - networkx=2.8.4
+  - pip:
+    - pygame==2.1.2
